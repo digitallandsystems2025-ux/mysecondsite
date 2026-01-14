@@ -988,7 +988,7 @@ nav {
     
     animation-name: mymovie ;
     animation-duration:10s ;
-    animation-iteration-count: 1;
+    animation-iteration-count: 2;
     
     
 }
@@ -1015,9 +1015,10 @@ nav {
         transform:translateX(600px);
         
     }
+
     100%{
         
-                  transform:translateX(-600px);
+        transform:translateX(-600px);
                   
     }
 
